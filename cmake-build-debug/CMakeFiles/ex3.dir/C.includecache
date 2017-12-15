@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Emil/OneDrive - Technion/Documents/MATAM/ex3/list_mtm.c
+stdlib.h
+-
+assert.h
+-
+list_mtm.h
+/cygdrive/c/Users/Emil/OneDrive - Technion/Documents/MATAM/ex3/list_mtm.h
+
+/cygdrive/c/Users/Emil/OneDrive - Technion/Documents/MATAM/ex3/list_mtm.h
+stdbool.h
+-
+
+/cygdrive/c/Users/Emil/OneDrive - Technion/Documents/MATAM/ex3/main.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+assert.h
+-
+list_mtm.h
+/cygdrive/c/Users/Emil/OneDrive - Technion/Documents/MATAM/ex3/list_mtm.h
+test_utilities.h
+/cygdrive/c/Users/Emil/OneDrive - Technion/Documents/MATAM/ex3/test_utilities.h
+
+/cygdrive/c/Users/Emil/OneDrive - Technion/Documents/MATAM/ex3/test_utilities.h
+stdbool.h
+-
+stdio.h
+-
+
